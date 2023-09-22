@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @BakhtiarAhmed41
-- 👀 I’m interested in programming.
-- 🌱 I’m currently learning Web Development and App Development.
+- 👋 Hi, I’m Bakhtiar Ahmed, a Software Engineering Student at NED University of Engineering & Technology.
+- 🌱 I’m interested in Programming, Web Development, and App Development.
 - 💞️ I’m looking to collaborate on interesting projects.
-- 📫 you can connect with me on the following social media accounts: fb: https://www.facebook.com/TheAhmedBakhtiar/    insta: https://www.instagram.com/the_bakhtiar_ahmed/    Linkedin: https://www.linkedin.com/in/bakhtiar-ahmed-313991249/
+- 📫 You can connect with me on Linkedin: https://www.linkedin.com/in/bakhtiar-ahmed-313991249/
 
 <!---
 BakhtiarAhmed41/BakhtiarAhmed41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
