@@ -1,4 +1,4 @@
-👋 Greetings! I'm Bakhtiar Ahmed, an avid Software Engineering student at NED University of Engineering & Technology.
+👋 Greetings! I'm Bakhtiar Ahmed, an avid Software Engineering Undergrad at NED University of Engineering & Technology.
 
 🌱 My passions revolve around the intricate worlds of Programming, Web Development, and App Development.
 
