@@ -11,5 +11,4 @@ I'm always open to collaborate on innovative projects that push boundaries and s
 
 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/bakhtiar-ahmed-313991249/)
 
-Let’s build impactful solutions, together.
-
+Let’s build impactful solutions, together!
