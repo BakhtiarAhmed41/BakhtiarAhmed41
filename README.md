@@ -1,6 +1,6 @@
 ## Hi, I'm Bakhtiar Ahmed
 
-I'm a Software Engineer, graduated from NED University of Engineering & Technology, with a strong focus on building scalable, efficient, and user-centric digital solutions.
+A Software Engineer, graduated from NED University of Engineering & Technology, with a strong focus on building scalable, efficient, and user-centric digital solutions.
 
 ### 🔹 Areas of Interest
 - Programming  
