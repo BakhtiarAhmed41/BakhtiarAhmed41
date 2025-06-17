@@ -1,15 +1,15 @@
-Greetings! I'm Bakhtiar Ahmed, an avid Software Engineering Undergrad at NED University of Engineering & Technology.
+## Hi, I'm Bakhtiar Ahmed
 
-My passions revolve around the intricate worlds of Programming, Web Development, and App Development.
+I'm a Software Engineer, graduated from NED University of Engineering & Technology, with a strong focus on building scalable, efficient, and user-centric digital solutions.
 
-Eagerly seeking collaborations on compelling projects that ignite creativity and innovation.
+### 🔹 Areas of Interest
+- Programming  
+- Web Development  
+- Mobile App Development  
 
-Connect with me on [Linkedin](https://www.linkedin.com/in/bakhtiar-ahmed-313991249/).
+I'm always open to collaborate on innovative projects that push boundaries and solve real-world problems.
 
-Let's create, innovate, and redefine possibilities together!
+**Let's connect:** [LinkedIn – Bakhtiar Ahmed](https://www.linkedin.com/in/bakhtiar-ahmed-313991249/)
 
----
-<!---
-BakhtiarAhmed41/BakhtiarAhmed41 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Let’s build impactful solutions—together.
+
