@@ -9,7 +9,7 @@ A Software Engineer, graduated from NED University of Engineering & Technology, 
 
 I'm always open to collaborate on innovative projects that push boundaries and solve real-world problems.
 
-**Let's connect:** [LinkedIn – Bakhtiar Ahmed](https://www.linkedin.com/in/bakhtiar-ahmed-313991249/)
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/bakhtiar-ahmed-313991249/)
 
-Let’s build impactful solutions—together.
+Let’s build impactful solutions, together.
 
