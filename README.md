@@ -7,8 +7,7 @@ A **Software Engineer**, graduated from **NED University of Engineering & Techno
 - Programming  
 - Web Development  
 - Mobile App Development  
-- Data Structures & Algorithms  
-- Software Design & Architecture (OOP)
+- Artificial Intelligence
 
 
 ## 🔹 Areas of Expertise
