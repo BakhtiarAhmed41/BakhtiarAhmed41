@@ -34,11 +34,9 @@ A **Software Engineer**, graduated from **NED University of Engineering & Techno
 ## 💬 Let’s Collaborate
 I’m always open to collaborating on innovative projects that solve real-world problems and push the boundaries of technology.
 
----
 
 ## 🔗 Connect With Me
 [LinkedIn](https://www.linkedin.com/in/bakhtiar-ahmed-313991249/)
 
----
 
 > Let’s build impactful solutions, together!
