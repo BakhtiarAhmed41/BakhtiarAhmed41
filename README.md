@@ -2,7 +2,6 @@
 
 A **Software Engineer**, graduated from **NED University of Engineering & Technology**, with a strong focus on building **scalable**, **efficient**, and **user-centric** digital solutions.
 
----
 
 ## 🔹 Areas of Interest
 - Programming  
@@ -11,7 +10,6 @@ A **Software Engineer**, graduated from **NED University of Engineering & Techno
 - Data Structures & Algorithms  
 - Software Design & Architecture (OOP)
 
----
 
 ## 🔹 Areas of Expertise
 
@@ -33,7 +31,6 @@ A **Software Engineer**, graduated from **NED University of Engineering & Techno
 - Data Structures & Algorithms  
 - RESTful APIs & Integration  
 
----
 
 ## 💬 Let’s Collaborate
 I’m always open to collaborating on innovative projects that solve real-world problems and push the boundaries of technology.
