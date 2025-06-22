@@ -31,12 +31,6 @@ A **Software Engineer**, graduated from **NED University of Engineering & Techno
 - RESTful APIs & Integration  
 
 
-## 💬 Let’s Collaborate
-I’m always open to collaborating on innovative projects that solve real-world problems and push the boundaries of technology.
+I'm always open to collaborate on innovative projects that push boundaries and solve real-world problems.
 
-
-## 🔗 Connect With Me
-[LinkedIn](https://www.linkedin.com/in/bakhtiar-ahmed-313991249/)
-
-
-> Let’s build impactful solutions, together!
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/bakhtiar-ahmed-313991249/)
