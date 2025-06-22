@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bakhtiar Ahmed
+# Hi, I'm Bakhtiar Ahmed
 
 A **Software Engineer**, graduated from **NED University of Engineering & Technology**, with a strong focus on building **scalable**, **efficient**, and **user-centric** digital solutions.
 
@@ -15,20 +15,20 @@ A **Software Engineer**, graduated from **NED University of Engineering & Techno
 
 ## 🔹 Areas of Expertise
 
-### 🖥️ Frontend
+### Frontend
 - HTML, CSS, JavaScript, TypeScript  
 - React.js, Bootstrap, Tailwind CSS  
 
-### 🛠️ Backend & Database
+### Backend & Database
 - Django (Python), PHP, MySQL, Firebase  
 
-### 🌐 CMS & Platforms
+### CMS & Platforms
 - WordPress  
 
-### 📱 Mobile Development
+### Mobile Development
 - Flutter, Dart (using Provider for state management)
 
-### 💡 Core Skills
+### Core Skills
 - Object-Oriented Programming (OOP)  
 - Data Structures & Algorithms  
 - RESTful APIs & Integration  
